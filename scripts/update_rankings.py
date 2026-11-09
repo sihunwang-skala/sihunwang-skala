@@ -8,10 +8,12 @@ START, END = "<!-- RANKINGS:START -->", "<!-- RANKINGS:END -->"
 
 
 def render(data):
-    lines = ["**Education** — 한국에서 잘 알려지지 않은 학교라 참고용으로 남깁니다.", ""]
+    lines = ["### Education", ""]
     for s in data["schools"]:
-        lines.append(f"- {s['name_ko']} ({s['degree']}) — 미국 내 {s['field']} 분야 #{s['rank']} · [{s['source']}]({s['url']})")
-    lines += ["", f"<sub>전체 순위는 [U.S. News AI 순위]({data['ranking_url']})에서 볼 수 있어요. 순위는 매년 바뀝니다.</sub>"]
+        orcid = f" <sub>ORCID: [{s['orcid']}](https://orcid.org/{s['orcid']})</sub>" if s.get("orcid") else ""
+        lines.append(f"- **{s['name']}** — {s['degree']}{orcid}")
+        lines.append(f"  - {s['rank_label']} **#{s['rank']}** · [{s['edition']}]({s['url']})")
+    lines += ["", f"<sub>U.S. News 기준, 매년 바뀝니다. [전체 AI 순위 보기]({data['ranking_url']})</sub>"]
     return "\n".join(lines)
 
 

@@ -1,20 +1,22 @@
 {
   "schools": [
     {
-      "name_ko": "UIUC",
-      "degree": "B.S.",
+      "name": "UIUC",
+      "degree": "**Statistics** (major) · Computer Science / Data Science / Informatics (minors)",
+      "rank_label": "AI 분야 (CS)",
       "rank": 6,
-      "field": "AI",
-      "source": "U.S. News · Computer Science – Artificial Intelligence",
-      "url": "https://siebelschool.illinois.edu/about/statistics"
+      "edition": "UIUC 공식 페이지",
+      "url": "https://siebelschool.illinois.edu/about/statistics",
+      "orcid": "0009-0007-0605-7760"
     },
     {
-      "name_ko": "Georgia Tech",
-      "degree": "M.S.",
+      "name": "Georgia Tech",
+      "degree": "**Computer Science** (M.S., AI)",
+      "rank_label": "AI 분야 (대학원)",
       "rank": 5,
-      "field": "AI",
-      "source": "U.S. News 2026 · Graduate AI",
-      "url": "https://ai.gatech.edu/education/education-program-rankings"
+      "edition": "2026, Georgia Tech 공식 페이지",
+      "url": "https://ai.gatech.edu/education/education-program-rankings",
+      "orcid": "0009-0007-4182-9498"
     }
   ],
   "ranking_url": "https://www.usnews.com/best-graduate-schools/top-computer-science-schools/artificial-intelligence-rankings"
