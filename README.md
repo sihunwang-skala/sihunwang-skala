@@ -1,6 +1,6 @@
 <!-- GitHubLink:START -->
-- Previous GitHub:
-[@sihunwang](https://github.com/sihunwang)
+> Previous GitHub:
+[**@sihunwang**](https://github.com/sihunwang)
 > <!-- GitHubLink:START -->
 
 <!-- Education:START -->
