@@ -8,7 +8,7 @@
 > 📢 **계정 안내 / Account notice** — 이전에 쓰던 계정 [@sihunwang](https://github.com/sihunwang)도 제가 운영하는 계정이며, 현재 활동은 이 계정(**@sihunwang-skala**)에서 하고 있습니다.
 > *My previous account [@sihunwang](https://github.com/sihunwang) is also mine. I'm now active on this account.*
 
-## 🚀 대표 프로젝트 · Featured
+## 📁 프로젝트
 
 ### [L10n Quality Agent](https://github.com/sihunwang-skala/l10n-quality-agent)
 한국어 문장을 번역하고 **MQM 평가 → 오류 유형별 수정 → 재평가 → Agent 판단 → 사람 승인**까지 추적하는 번역 품질 개선 에이전트.
