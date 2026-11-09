@@ -1,11 +1,6 @@
 <h1 align="center">Hi, I'm Sihun Wang (왕시훈) 👋</h1>
 
 <p align="center">
-  번역·현지화(L10n) 품질과 LLM 에이전트에 관심 있는 개발자입니다.<br>
-  I build LLM agents and tooling for translation & localization quality.
-</p>
-
-<p align="center">
   <a href="https://orcid.org/0009-0007-0605-7760"><img src="https://img.shields.io/badge/ORCID-0009--0007--0605--7760-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
   <a href="https://book.stat420.org/"><img src="https://img.shields.io/badge/UIUC_STAT_420_Textbook-Contributor-13294B?style=for-the-badge" alt="UIUC STAT 420 textbook contributor"></a>
 </p>
