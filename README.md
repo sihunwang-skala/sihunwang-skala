@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://orcid.org/0009-0007-0605-7760"><img src="https://img.shields.io/badge/ORCID-0009--0007--0605--7760-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
-  <a href="https://book.stat420.org/"><img src="https://img.shields.io/badge/STAT_420-Book_Contributor-0B5394?style=for-the-badge" alt="STAT 420 book contributor"></a>
+  <a href="https://book.stat420.org/"><img src="https://img.shields.io/badge/UIUC_STAT_420_Textbook-Contributor-13294B?style=for-the-badge" alt="UIUC STAT 420 textbook contributor"></a>
 </p>
 
 > 📢 **계정 안내 / Account notice** — 이전에 쓰던 계정 [@sihunwang](https://github.com/sihunwang)도 제가 운영하는 계정이며, 현재 활동은 이 계정(**@sihunwang-skala**)에서 하고 있습니다.
@@ -33,4 +33,4 @@
 ## 📚 Academic
 
 - **ORCID**: [0009-0007-0605-7760](https://orcid.org/0009-0007-0605-7760)
-- **Applied Statistics with R** (David Dalpiaz, STAT 420 교재) — 기여자로 [감사 명단](https://book.stat420.org/)에 이름이 올라 있습니다.
+- **일리노이 대학교(UIUC) 통계학 교과서 _Applied Statistics with R_** (David Dalpiaz, STAT 420) — 기여자로 [감사 명단](https://book.stat420.org/)에 이름이 올라 있습니다.
