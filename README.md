@@ -3,12 +3,12 @@
 <!-- RANKINGS:START -->
 ### Education
 
-- **UIUC** — **Statistics** (major) · Computer Science / Data Science / Informatics (minors) <sub>ORCID: [0009-0007-0605-7760](https://orcid.org/0009-0007-0605-7760)</sub>
-  - AI 분야 (CS) **#6** · [UIUC 공식 페이지](https://siebelschool.illinois.edu/about/statistics)
-- **Georgia Tech** — **Computer Science** (M.S., AI) <sub>ORCID: [0009-0007-4182-9498](https://orcid.org/0009-0007-4182-9498)</sub>
-  - AI 분야 (대학원) **#5** · [2026, Georgia Tech 공식 페이지](https://ai.gatech.edu/education/education-program-rankings)
+- **UIUC** — B.S. **Statistics** (major) · Computer Science, Data Science, Informatics (minors) · [ORCID](https://orcid.org/0009-0007-0605-7760)
+  - AI ranking in the U.S.: **#6** · [UIUC official](https://siebelschool.illinois.edu/about/statistics)
+- **Georgia Tech** — M.S. **Computer Science** (AI) · [ORCID](https://orcid.org/0009-0007-4182-9498)
+  - AI ranking in the U.S.: **#5** · [2026, Georgia Tech official](https://ai.gatech.edu/education/education-program-rankings)
 
-<sub>U.S. News 기준, 매년 바뀝니다. [전체 AI 순위 보기](https://www.usnews.com/best-graduate-schools/top-computer-science-schools/artificial-intelligence-rankings)</sub>
+<sub>AI를 공부했고, 한국에서 잘 알려지지 않은 학교라 U.S. News AI 순위를 참고용으로 남깁니다. 순위는 매년 바뀝니다. [전체 순위 보기](https://www.usnews.com/best-graduate-schools/top-computer-science-schools/artificial-intelligence-rankings)</sub>
 <!-- RANKINGS:END -->
 
 ### Contributions

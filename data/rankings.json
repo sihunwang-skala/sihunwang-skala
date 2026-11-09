@@ -2,19 +2,19 @@
   "schools": [
     {
       "name": "UIUC",
-      "degree": "**Statistics** (major) · Computer Science / Data Science / Informatics (minors)",
+      "degree": "B.S. **Statistics** (major) · Computer Science, Data Science, Informatics (minors)",
       "rank_label": "AI 분야 (CS)",
       "rank": 6,
-      "edition": "UIUC 공식 페이지",
+      "edition": "UIUC official",
       "url": "https://siebelschool.illinois.edu/about/statistics",
       "orcid": "0009-0007-0605-7760"
     },
     {
       "name": "Georgia Tech",
-      "degree": "**Computer Science** (M.S., AI)",
+      "degree": "M.S. **Computer Science** (AI)",
       "rank_label": "AI 분야 (대학원)",
       "rank": 5,
-      "edition": "2026, Georgia Tech 공식 페이지",
+      "edition": "2026, Georgia Tech official",
       "url": "https://ai.gatech.edu/education/education-program-rankings",
       "orcid": "0009-0007-4182-9498"
     }
