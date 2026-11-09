@@ -9,4 +9,4 @@ in **AI**
 
 <!-- RANKINGS:END -->
 
-> Contributor: [*Applied Statistics with R*](https://book.stat420.org/) — (David Dalpiaz) [[UIUC STAT 420]](https://courses.illinois.edu/schedule/terms/STAT/420)
+> Contributor(기여자) [*Applied Statistics with R*](https://book.stat420.org/) — (David Dalpiaz) [[UIUC STAT 420]](https://courses.illinois.edu/schedule/terms/STAT/420)
