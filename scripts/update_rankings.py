@@ -11,8 +11,8 @@ def render(data):
     lines = ["### Education", ""]
     for s in data["schools"]:
         lines.append(f"- **{s['name']}** — {s['degree']}")
-        lines.append(f"  - U.S. News 미국 내 {s['rank_label']} **#{s['rank']}** · [{s['edition']}]({s['url']})")
-    lines += ["", f"<sub>AI 중심으로 공부해서 AI 분야 순위를 참고용으로 남깁니다. 학과 전체 순위가 아니며 매년 바뀝니다. [전체 순위 보기]({data['ranking_url']})</sub>"]
+        lines.append(f"  - {s['rank_label']} **#{s['rank']}** · [{s['edition']}]({s['url']})")
+    lines += ["", f"<sub>U.S. News 기준, 매년 바뀝니다. [전체 AI 순위 보기]({data['ranking_url']})</sub>"]
     return "\n".join(lines)
 
 
