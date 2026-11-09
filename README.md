@@ -1,4 +1,4 @@
-> Previously [@sihunwang](https://github.com/sihunwang) — that account is also mine. I'm now active here. 깃헙 이전했습니다.
+> Previous Github: [@sihunwang](https://github.com/sihunwang) 
 
 >
 - Contributor to *Applied Statistics with R*, the University of Illinois Urbana-Champaign (UIUC) STAT 420 textbook (David Dalpiaz) — [acknowledgments](https://book.stat420.org/)
