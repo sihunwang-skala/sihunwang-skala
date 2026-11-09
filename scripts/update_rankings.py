@@ -8,15 +8,11 @@ START, END = "<!-- RANKINGS:START -->", "<!-- RANKINGS:END -->"
 
 
 def render(data):
-    lines = ["**Education**", ""]
+    lines = ["### Education", ""]
     for s in data["schools"]:
-        lines.append(f"- {s['name']} — {s['degree']}")
-    ranks = " · ".join(
-        f"{s['rank_label']} #{s['rank']} ([{s['edition']}]({s['url']}))" for s in data["schools"]
-    )
-    lines += ["", f"<sub>한국에서 잘 알려지지 않은 학교라 참고용으로 남깁니다. 미국 내 U.S. News 기준 — {ranks}. "
-              f"학위 전공이 아닌 학교 컴퓨터과학 프로그램의 순위이며 매년 바뀝니다. "
-              f"[전체 순위 보기]({data['ranking_url']})</sub>"]
+        lines.append(f"- **{s['name']}** — {s['degree']}")
+        lines.append(f"  - U.S. News 미국 내 {s['rank_label']} **#{s['rank']}** · [{s['edition']}]({s['url']})")
+    lines += ["", f"<sub>한국에서 잘 알려지지 않은 학교라 참고용으로 남깁니다. 학위 전공이 아닌 학교 컴퓨터과학 프로그램의 순위이며 매년 바뀝니다. [전체 순위 보기]({data['ranking_url']})</sub>"]
     return "\n".join(lines)
 
 
