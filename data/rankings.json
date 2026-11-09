@@ -6,7 +6,8 @@
       "rank_label": "AI 분야 (CS)",
       "rank": 6,
       "edition": "UIUC 공식 페이지",
-      "url": "https://siebelschool.illinois.edu/about/statistics"
+      "url": "https://siebelschool.illinois.edu/about/statistics",
+      "orcid": "0009-0007-0605-7760"
     },
     {
       "name": "Georgia Tech",
@@ -14,7 +15,8 @@
       "rank_label": "AI 분야 (대학원)",
       "rank": 5,
       "edition": "2026, Georgia Tech 공식 페이지",
-      "url": "https://ai.gatech.edu/education/education-program-rankings"
+      "url": "https://ai.gatech.edu/education/education-program-rankings",
+      "orcid": "0009-0007-4182-9498"
     }
   ],
   "ranking_url": "https://www.usnews.com/best-graduate-schools/top-computer-science-schools/artificial-intelligence-rankings"
