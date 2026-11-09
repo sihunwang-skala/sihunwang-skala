@@ -1,0 +1,38 @@
+{
+  "note": "학교가 직접 공개한 U.S. News 순위를 기준으로 합니다. 매년 갱신 알림이 오면 이 파일의 숫자와 edition만 고치면 README가 자동으로 다시 만들어집니다.",
+  "schools": [
+    {
+      "name": "University of Illinois Urbana-Champaign",
+      "name_ko": "일리노이대 어바나-샴페인 (UIUC)",
+      "rows": [
+        {
+          "label_ko": "AI 분야 (대학원)",
+          "rank": 6,
+          "source": "U.S. News Best Graduate Schools · Computer Science – Artificial Intelligence",
+          "edition": "2026",
+          "url": "https://siebelschool.illinois.edu/about/statistics"
+        },
+        {
+          "label_ko": "컴퓨터과학 전체 (대학원)",
+          "rank": 5,
+          "source": "U.S. News Best Graduate Schools · Computer Science",
+          "edition": "2026",
+          "url": "https://siebelschool.illinois.edu/about/statistics"
+        }
+      ]
+    },
+    {
+      "name": "Georgia Institute of Technology",
+      "name_ko": "조지아텍 (Georgia Tech)",
+      "rows": [
+        {
+          "label_ko": "AI 분야 (대학원)",
+          "rank": 5,
+          "source": "U.S. News Best Graduate Schools · Computer Science – Artificial Intelligence",
+          "edition": "2026",
+          "url": "https://ai.gatech.edu/education/education-program-rankings"
+        }
+      ]
+    }
+  ]
+}
