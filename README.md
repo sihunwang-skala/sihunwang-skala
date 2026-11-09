@@ -1,9 +1,12 @@
 > Previous GitHub: [@sihunwang](https://github.com/sihunwang)
 
 <!-- RANKINGS:START -->
-**UIUC** [**#6 in AI**](https://www.usnews.com/best-graduate-schools/top-computer-science-schools/artificial-intelligence-rankings) in the U.S. [ORCID](https://orcid.org/0009-0007-0605-7760)
->
-**Georgia Tech** [**#5 in AI**](https://www.usnews.com/best-graduate-schools/top-computer-science-schools/artificial-intelligence-rankings) in the U.S. [ORCID](https://orcid.org/0009-0007-4182-9498)
+> Education:
+[**@UIUC**](https://orcid.org/0009-0007-0605-7760) [#6](https://www.usnews.com/best-graduate-schools/top-computer-science-schools/artificial-intelligence-rankings)
+[**@Georgia Tech**](https://orcid.org/0009-0007-4182-9498) [#5](https://www.usnews.com/best-graduate-schools/top-computer-science-schools/artificial-intelligence-rankings)
+in **AI**
+
+
 <!-- RANKINGS:END -->
 
-- Contributor, [UIUC STAT 420] [*Applied Statistics with R*](https://book.stat420.org/) — (David Dalpiaz) · 
+> Contributor: [*Applied Statistics with R*](https://book.stat420.org/) — (David Dalpiaz) [[UIUC STAT 420]](https://courses.illinois.edu/schedule/terms/STAT/420)
