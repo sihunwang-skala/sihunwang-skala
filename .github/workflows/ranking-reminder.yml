@@ -1,0 +1,20 @@
+name: Ranking update reminder
+on:
+  schedule:
+    - cron: "0 0 25 4 *"   # U.S. News 대학원 순위 발표 이후 (4월)
+    - cron: "0 0 25 6 *"   # U.S. News 글로벌 순위 발표 이후 (6월)
+  workflow_dispatch:
+permissions:
+  issues: write
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Open issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          year=$(date +%Y)
+          gh issue create --title "Update rankings ($year)" \
+            --body "새 순위가 발표됐는지 확인하고 \`data/rankings.json\`의 rank/edition을 고쳐 main에 push하세요. README는 자동으로 갱신됩니다. 출처: 각 학교 Rankings 페이지(siebelschool.illinois.edu/about/statistics, ai.gatech.edu/education/education-program-rankings)."

@@ -1,0 +1,21 @@
+{
+  "schools": [
+    {
+      "name_ko": "UIUC",
+      "degree": "B.S.",
+      "rank": 6,
+      "field": "AI",
+      "source": "U.S. News · Computer Science – Artificial Intelligence",
+      "url": "https://siebelschool.illinois.edu/about/statistics"
+    },
+    {
+      "name_ko": "Georgia Tech",
+      "degree": "M.S.",
+      "rank": 5,
+      "field": "AI",
+      "source": "U.S. News 2026 · Graduate AI",
+      "url": "https://ai.gatech.edu/education/education-program-rankings"
+    }
+  ],
+  "ranking_url": "https://www.usnews.com/best-graduate-schools/top-computer-science-schools/artificial-intelligence-rankings"
+}
