@@ -6,7 +6,7 @@
 <!-- Education:START -->
 Education
 **@UIUC** [#6](https://www.usnews.com/best-graduate-schools/top-computer-science-schools/artificial-intelligence-rankings)
-**@Georgia Tech** [#5](https://www.usnews.com/best-graduate-schools/top-computer-science-schools/artificial-intelligence-rankings) **in AI**(미국 대학 인공지능 순위 6위, 5위)
+**@Georgia Tech** [#5](https://www.usnews.com/best-graduate-schools/top-computer-science-schools/artificial-intelligence-rankings) **in AI** (미국 대학 인공지능 순위 6위, 5위)
 <!-- Education:END -->
 
 <!-- Contributor:START -->
