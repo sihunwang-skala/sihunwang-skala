@@ -11,5 +11,5 @@ Education
 
 <!-- Contributor:START -->
 Contributor
-[*Applied Statistics with R*](https://book.stat420.org/) — [UIUC STAT 420](https://informatics.ischool.illinois.edu/courses/stat-420-methods-of-applied-statistics/)
+[*Applied Statistics with R*](https://book.stat420.org/) - [UIUC STAT 420](https://informatics.ischool.illinois.edu/courses/stat-420-methods-of-applied-statistics/) 
 <!-- Contributor:END -->
