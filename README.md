@@ -11,5 +11,5 @@ Education
 
 <!-- Contributor:START -->
 Contributor
-[*Applied Statistics with R*](https://book.stat420.org/) (응용 통계학 교과서 기여)
+[*Applied Statistics with R*](https://book.stat420.org/) 
 <!-- Contributor:END -->
