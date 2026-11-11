@@ -8,8 +8,8 @@
   
  
 Open-Source Contribution 
-> Contributor to [*Applied Statistics with R*](https://book.stat420.org/) (응용통계학 교과서 기여)
+> [*Applied Statistics with R* - 일리노이대 응용통계학 교과서](https://book.stat420.org/) 
 
 Awards
 >
-> [GSU Mathematics Tournament] Individual 2nd & Team 1st (2017, 2018) - [Southeast Georgia Representative](https://www.gctm.org/competitions/state/winners#:~:text=Bulloch%20Academy)
+>  [Southeast Georgia Representative 조지아주 지역 대표](https://www.gctm.org/competitions/state/winners#:~:text=Bulloch%20Academy) - [GSU Mathematics Tournament] Individual 2nd & Team 1st (2017, 2018) 
