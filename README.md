@@ -3,8 +3,8 @@
 [**@sihunwang**](https://github.com/sihunwang)
 > <!-- GitHubLink:START -->
 **Education**
-- **[University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/)** — B.S. in Statistics, Minors in Computer Science, Data Science, and Informatics
-- **[Georgia Institute of Technology (Georgia Tech)](https://www.gatech.edu/)** — M.S. in Computer Science, AI Specialization (On Leave)
+- **University of Illinois Urbana-Champaign [(UIUC)](https://illinois.edu/)** — B.S. in Statistics, Minors in Computer Science, Data Science, and Informatics
+- **Georgia Institute of Technology [(Georgia Tech)](https://www.gatech.edu/)** — M.S. in Computer Science, AI Specialization (On Leave)
 
 > **미국 AI 분야 최상위권 대학 (전미 Top 5)** — [2026 U.S. News Graduate AI Rankings](https://www.usnews.com/best-graduate-schools/top-computer-science-schools/artificial-intelligence-rankings)
 
