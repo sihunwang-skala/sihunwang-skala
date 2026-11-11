@@ -13,4 +13,4 @@ Open-Source Contribution
 
 Awards
 >
->  [Southeast Georgia Representative](https://www.gctm.org/competitions/state/winners#:~:text=Bulloch%20Academy) 조지아주 지역 대표 - [GSU Mathematics Tournament] Individual 2nd & Team 1st (2017, 2018) 
+>  [Southeast Georgia Representative](https://www.gctm.org/competitions/state/winners#:~:text=Bulloch%20Academy) 미국 조지아주 지역 대표 - [GSU Mathematics Tournament] Individual 2nd & Team 1st (2017, 2018) 
