@@ -4,8 +4,7 @@
 > <!-- GitHubLink:START -->
 >
 ### [Top AI School](https://www.usnews.com/best-graduate-schools/top-computer-science-schools/artificial-intelligence-rankings#:~:text=Georgia%20Institute%20of%20Technology&text=University%20of%20Illinois)
-- **[UIUC(일리노이대)](https://illinois.edu/)**
-- **[Georgia Tech(조지아공과대)](https://www.gatech.edu/)**
+- **[UIUC(일리노이대)](https://illinois.edu/)** | **[Georgia Tech(조지아공과대)](https://www.gatech.edu/)**
   
  
 Open-Source Contribution 
