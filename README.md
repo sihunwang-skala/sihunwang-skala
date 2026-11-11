@@ -14,6 +14,6 @@
 
 **Awards**
 - Georgia Southern Invitational Mathematics Tournament
-  - **Southeast Georgia Regional Representative 미국 조지아주 동남부지역 대표**
+  - **Southeast Georgia Regional Representative - 미국 조지아주 동남부지역 대표**
   - Individual 2nd Place (2017, 2018)** | Team 1st Place (2017, 2018)
   - [Official Tournament](https://sites.google.com/a/georgiasouthern.edu/math-tournament/) | [Georgia State Mathematics Tournament Results](https://www.gctm.org/competitions/state/winners)
