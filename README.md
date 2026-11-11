@@ -13,5 +13,5 @@
 
 
 > Awards
-- [Georgia Southern Invitational Mathematics Tournament](https://sites.google.com/a/georgiasouthern.edu/math-tournament/#:~:text=East%20Central%20and%20Southeast%20regions%20of%20Georgia) Individual 2nd (2017, 2018) & Team 1st (2017, 2018)
-  - [Southeast Georgia Regional Representative](https://www.gctm.org/competitions/state/winners#:~:text=Bulloch%20Academy) (**미국 조지아주 지역 대표** 연임 - 수학경시대회)
+- [GSU Mathematics Tournament] Individual 2nd & Team 1st (2017, 2018)
+  - [Southeast Georgia Regional Representative]([**미국 조지아주 지역 대표**](https://www.gctm.org/competitions/state/winners#:~:text=Bulloch%20Academy) 연임 - 수학경시대회)
