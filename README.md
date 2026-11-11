@@ -5,7 +5,7 @@
 > <!-- GitHubLink:START -->
 > Education
 - **[UIUC](https://illinois.edu/)**(일리노이대) **[Georgia Tech](https://www.gatech.edu/)**(조지아공과대)
-  - [2026 U.S. News Graduate AI Rankings](https://www.usnews.com/best-graduate-schools/top-computer-science-schools/artificial-intelligence-rankings#:~:text=Georgia%20Institute%20of%20Technology&text=University%20of%20Illinois) (**AI 분야 전미 최상위권**)
+  - [2026 U.S. News Graduate AI Rankings](https://www.usnews.com/best-graduate-schools/top-computer-science-schools/artificial-intelligence-rankings#:~:text=Georgia%20Institute%20of%20Technology&text=University%20of%20Illinois) (**AI 분야 전미 최상위 대학**)
 
 
 > Open-Source Contribution
