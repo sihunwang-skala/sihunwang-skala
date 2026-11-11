@@ -9,7 +9,7 @@
   - [2026 U.S. News Graduate AI Rankings](https://www.usnews.com/best-graduate-schools/top-computer-science-schools/artificial-intelligence-rankings) - **미국 AI 최상위권 대학**
 
 **Open-Source Contribution**
-- Contributor to [*Applied Statistics with R*](https://book.stat420.org/) — [UIUC STAT 420: Methods of Applied Statistics](https://informatics.ischool.illinois.edu/courses/stat-420-methods-of-applied-statistics/) (일리노이대 응용통계학 교과서 기여) 
+- Contributor to [*Applied Statistics with R*](https://book.stat420.org/) — 일리노이대 응용통계학 교과서 기여
 
 
 **Awards**
