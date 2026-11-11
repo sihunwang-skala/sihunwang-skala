@@ -15,5 +15,5 @@ Education
 
 <!-- Contributor:START -->
 Contributor
-[*Applied Statistics with R*](https://book.stat420.org/) (미국 일리노이대 응용통계학 교과서)
+[*Applied Statistics with R*](https://book.stat420.org/) (응용통계학 교과서 및 기여자 명단) 
 <!-- Contributor:END -->
