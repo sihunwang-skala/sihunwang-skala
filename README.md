@@ -14,4 +14,4 @@
 
 > Awards
 - [GSU Mathematics Tournament] Individual 2nd & Team 1st (2017, 2018)
-  - [Southeast Georgia Regional Representative]([**미국 조지아주 지역 대표**](https://www.gctm.org/competitions/state/winners#:~:text=Bulloch%20Academy) 연임 - 수학경시대회)
+  - Southeast Georgia Representative([미국 조지아주 지역 대표 - 수학경시대회](https://www.gctm.org/competitions/state/winners#:~:text=Bulloch%20Academy))
