@@ -9,7 +9,7 @@
 [@sihunwang](https://github.com/sihunwang)
 
 ### 학력 
-- **[미국 AI 분야 최상위권 대학](https://www.usnews.com/best-graduate-schools/top-computer-science-schools/artificial-intelligence-rankings)**
+- **<h3>[미국 AI 분야 최상위권 대학](https://www.usnews.com/best-graduate-schools/top-computer-science-schools/artificial-intelligence-rankings)<h3>**
   - **[University of Illinois Urbana-Champaign (일리노이 대학교 어바나-샴페인)](https://illinois.edu/)**
   - **[Georgia Institute of Technology (조지아 공과대학교)](https://www.gatech.edu/)**
 
