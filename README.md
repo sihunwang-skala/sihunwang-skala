@@ -6,7 +6,8 @@
 - **[University of Illinois Urbana-Champaign](https://illinois.edu/)**(일리노이대) — B.S. in Statistics, Minors in Computer Science, Data Science, and Informatics
 - **[Georgia Institute of Technology](https://www.gatech.edu/)**(조지아공과대) — M.S. in Computer Science, AI Specialization (On Leave)
   
-  - [2026 U.S. News Graduate AI Rankings](https://www.usnews.com/best-graduate-schools/top-computer-science-schools/artificial-intelligence-rankings) - <ins>미국 AI 최상위권 대학<ins>
+  - [2026 U.S. News Graduate AI Rankings](https://www.usnews.com/best-graduate-schools/top-computer-science-schools/artificial-intelligence-rankings#:~:text=Georgia%20Institute%20of%20Technology&text=University%20of%20Illinois) - <ins>미국 AI 최상위권 대학<ins>
+
 
 **Open-Source Contribution**
 - Contributor to [*Applied Statistics with R*](https://book.stat420.org/) — <ins>일리노이대 응용통계학 교과서 기여<ins>
