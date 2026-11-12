@@ -15,8 +15,8 @@
     <header class="site-header">
       <a class="brand" href="#top">Sihun Wang</a>
       <nav aria-label="Primary navigation">
-        <a href="#experience" data-i18n="navExperience">경력</a>
         <a href="#education" data-i18n="navEducation">학력</a>
+        <a href="#experience" data-i18n="navExperience">경력</a>
         <a href="#projects" data-i18n="navProjects">프로젝트</a>
         <a href="#skills" data-i18n="navSkills">기술</a>
       </nav>
@@ -33,8 +33,8 @@
           <h1>Sihun Wang</h1>
           <p class="summary" data-i18n="summary">Agentic RAG, Tool Routing, LLM Evaluation, HITL을 활용해 실제 업무에 적용할 수 있는 AI Agent와 데이터 파이프라인을 개발합니다.</p>
           <div class="quick-links">
-            <a href="#experience" data-i18n="viewExperience">경력 보기</a>
             <a href="#education" data-i18n="viewEducation">학력 보기</a>
+            <a href="#experience" data-i18n="viewExperience">경력 보기</a>
             <a href="#projects" data-i18n="viewProjects">프로젝트 보기</a>
           </div>
         </div>
@@ -45,8 +45,35 @@
         </dl>
       </section>
 
+      <section class="resume-section page-shell" id="education">
+        <div class="section-title"><span>01</span><div><h2 data-i18n="educationTitle">학력</h2></div></div>
+        <div class="ranking-highlight">
+          <div>
+            <span data-i18n="rankingLabel">U.S. News 2027 Graduate AI</span>
+            <strong data-i18n="rankingSummary">Georgia Tech와 UIUC 모두 미국 Top 6</strong>
+          </div>
+          <div class="ranking-links">
+            <a href="https://www.usnews.com/best-graduate-schools/top-science-schools/artificial-intelligence-rankings" target="_blank" rel="noreferrer" data-i18n="usNewsRanking">U.S. News 순위</a>
+            <a href="https://www.gatech.edu/about/rankings" target="_blank" rel="noreferrer">Georgia Tech #5</a>
+            <a href="https://siebelschool.illinois.edu/about/facts-and-rankings" target="_blank" rel="noreferrer">UIUC #6</a>
+          </div>
+        </div>
+        <div class="education-list">
+          <article>
+            <img class="organization-logo" src="https://www.google.com/s2/favicons?domain=gatech.edu&amp;sz=128" alt="Georgia Tech logo" />
+            <div><h3><a href="https://www.gatech.edu/" target="_blank" rel="noreferrer">Georgia Institute of Technology</a></h3><p data-i18n="gtDegree">M.S. Computer Science, Artificial Intelligence</p><span>2025–Present</span></div>
+            <div class="education-aside"><a class="rank-badge" href="https://www.gatech.edu/about/rankings" target="_blank" rel="noreferrer" data-i18n="gtRank">U.S. News Graduate AI #5</a><strong>GPA 4.0/4.0</strong></div>
+          </article>
+          <article>
+            <img class="organization-logo" src="https://www.google.com/s2/favicons?domain=illinois.edu&amp;sz=128" alt="University of Illinois logo" />
+            <div><h3><a href="https://illinois.edu/" target="_blank" rel="noreferrer">University of Illinois Urbana-Champaign</a></h3><p data-i18n="uiucDegree">B.S. Statistics, Minor in Computer Science</p><span>2018–2025</span></div>
+            <div class="education-aside"><a class="rank-badge" href="https://siebelschool.illinois.edu/about/facts-and-rankings" target="_blank" rel="noreferrer" data-i18n="uiucRank">U.S. News Graduate AI #6</a><strong>GPA 3.62/4.00</strong></div>
+          </article>
+        </div>
+      </section>
+
       <section class="resume-section page-shell" id="experience">
-        <div class="section-title"><span>01</span><div><h2 data-i18n="experienceTitle">경력</h2><p data-i18n="experienceSubtitle">최신순</p></div></div>
+        <div class="section-title"><span>02</span><div><h2 data-i18n="experienceTitle">경력</h2><p data-i18n="experienceSubtitle">최신순</p></div></div>
         <div class="resume-list">
           <article class="resume-entry">
             <img class="organization-logo" src="https://www.google.com/s2/favicons?domain=www.flitto.com&amp;sz=128" alt="Flitto logo" />
@@ -57,7 +84,7 @@
               </div>
               <ul>
                 <li data-i18n="flitto1">LG전자와 Olive Young 다국어 AI 번역 프로젝트에서 Fluency Agent를 개발하고 언어와 도메인별 Workflow Prompt를 최적화했습니다.</li>
-                <li data-i18n="flitto2">LLM 품질 평가 체계와 Benchmark 기준을 수립하고, 도메인 전문가 기반 HITL 검증과 PoC를 운영해 외부 검수 200건 중 195건의 무수정 통과를 달성했습니다.</li>
+                <li data-i18n="flitto2">LLM 품질 평가 체계와 Benchmark 기준을 수립하고, 도메인 전문가 기반 HITL 검증과 PoC를 운영해 외부 검수에서 97.5%의 무수정 통과율을 달성했습니다.</li>
               </ul>
               <div class="entry-links"><a href="https://www.flitto.com/ko" target="_blank" rel="noreferrer" data-i18n="officialSite">공식 웹사이트</a><a href="https://www.google.com/finance/quote/300080:KOSDAQ" target="_blank" rel="noreferrer">KOSDAQ 300080</a></div>
             </div>
@@ -94,7 +121,7 @@
           </article>
 
           <article class="resume-entry">
-            <img class="organization-logo" src="https://www.google.com/s2/favicons?domain=khu.ac.kr&amp;sz=128" alt="Kyung Hee University logo" />
+            <img class="organization-logo" src="./assets/khu-seal.png" alt="Kyung Hee University official seal" />
             <div class="entry-main">
               <div class="entry-heading">
                 <div><h3><a href="https://www.khu.ac.kr/" target="_blank" rel="noreferrer" data-i18n="khu">경희대학교 빅데이터응용학과</a></h3><p>Teaching Assistant</p></div>
@@ -105,7 +132,7 @@
           </article>
 
           <article class="resume-entry">
-            <img class="organization-logo" src="https://www.google.com/s2/favicons?domain=khu.ac.kr&amp;sz=128" alt="AI and BM Lab logo" />
+            <img class="organization-logo" src="./assets/aibm-logo.jpg" alt="AI and BM Lab logo" />
             <div class="entry-main">
               <div class="entry-heading">
                 <div><h3><a href="https://leekj.wordpress.com/" target="_blank" rel="noreferrer">AI &amp; BM Lab</a></h3><p>AI Researcher</p></div>
@@ -118,28 +145,12 @@
         </div>
       </section>
 
-      <section class="resume-section page-shell" id="education">
-        <div class="section-title"><span>02</span><div><h2 data-i18n="educationTitle">학력</h2></div></div>
-        <div class="education-list">
-          <article>
-            <img class="organization-logo" src="https://www.google.com/s2/favicons?domain=gatech.edu&amp;sz=128" alt="Georgia Tech logo" />
-            <div><h3><a href="https://www.gatech.edu/" target="_blank" rel="noreferrer">Georgia Institute of Technology</a></h3><p data-i18n="gtDegree">M.S. Computer Science, Artificial Intelligence, 현재 휴학</p><span>2025–Present</span></div>
-            <strong>GPA 4.0/4.0</strong>
-          </article>
-          <article>
-            <img class="organization-logo" src="https://www.google.com/s2/favicons?domain=illinois.edu&amp;sz=128" alt="University of Illinois logo" />
-            <div><h3><a href="https://illinois.edu/" target="_blank" rel="noreferrer">University of Illinois Urbana-Champaign</a></h3><p data-i18n="uiucDegree">B.S. Statistics, Minor in Computer Science</p><span>2018–2025</span></div>
-            <strong>GPA 3.62/4.00</strong>
-          </article>
-        </div>
-      </section>
-
       <section class="resume-section page-shell" id="projects">
         <div class="section-title"><span>03</span><div><h2 data-i18n="projectsTitle">대표 프로젝트</h2></div></div>
         <div class="project-list">
-          <article><div class="project-heading"><h3>Personalized Health Coach Multi-Agent</h3><time>2024–2026</time></div><p data-i18n="healthProject">LangGraph 기반 Research Agent와 Reviewer Agent, Tool Routing, Hybrid Search RAG를 구현하고 Benchmark로 품질과 안전성을 검증했습니다.</p><p class="stack">LangGraph, Agentic RAG, Hybrid Search, Evaluation</p><a class="project-link" href="https://github.com/sihunwang-skala/health-coach-multi-agent" target="_blank" rel="noreferrer" data-i18n="repository">Repository</a></article>
-          <article><div class="project-heading"><h3>Multilingual AI Translation Workflow</h3><time>2026</time></div><p data-i18n="translationProject">다국어 번역 Workflow를 위한 Fluency Agent, 언어별 Prompt, LLM 평가 기준, 전문가 HITL 검증 절차를 설계했습니다.</p><p class="stack">LLM-as-a-Judge, MQM, xCOMET, HITL</p><a class="project-link" href="https://github.com/sihunwang-skala/l10n-quality-agent" target="_blank" rel="noreferrer" data-i18n="repository">Repository</a></article>
-          <article><div class="project-heading"><h3>Tax and Agricultural Statistics Pipeline</h3><time>2025</time></div><p data-i18n="pipelineProject">API, Selenium, Beautiful Soup, OpenPyXL을 활용해 조사 데이터 수집과 검증, 문서 처리를 자동화했습니다.</p><p class="stack">Python, API, Selenium, Beautiful Soup, OpenPyXL</p></article>
+          <article><div class="project-heading"><h3>Personalized Health Coach Multi-Agent</h3><time>2024–2026</time></div><p data-i18n="healthProject">LangGraph Supervisor와 Diet, Exercise, Safety, Records Multi-Agent를 구현하고 Query Expansion, Hybrid Search, 근거 인용, Deterministic Safety Rules를 결합해 품질과 안전성을 검증했습니다.</p><p class="stack">LangGraph Multi-Agent, Supervisor Routing, Query Expansion, Hybrid Search, MCP, Evidence Citations, Safety Rules</p><a class="project-link" href="https://github.com/sihunwang-skala/health-coach-multi-agent" target="_blank" rel="noreferrer" data-i18n="repository">Repository</a></article>
+          <article><div class="project-heading"><h3>Multilingual AI Translation Workflow</h3><time>2026</time></div><p data-i18n="translationProject">MQM 오류 분류, 카테고리별 전문 수정, 결정적 검증과 Rollback, OpenAI Escalation, HITL 승인을 포함한 번역 품질 Agent를 구현했습니다.</p><p class="stack">Python 3.11, LangChain LCEL, Pydantic, Ollama, Qwen3.5, OpenAI, Gradio, pandas, FLORES+, MQM, pytest, HITL</p><a class="project-link" href="https://github.com/sihunwang-skala/l10n-quality-agent" target="_blank" rel="noreferrer" data-i18n="repository">Repository</a></article>
+          <article><div class="project-heading"><h3>Tax and Agricultural Statistics Pipeline</h3><time>2025</time></div><p data-i18n="pipelineProject">API, Selenium, Beautiful Soup, OpenPyXL을 활용해 조사 데이터 수집과 검증, 문서 처리를 자동화했습니다.</p><p class="stack">Python, API Integration, Identifier Mapping, Fallback Logic, Exception Handling, Execution Logs, Selenium, OpenPyXL</p></article>
           <article><div class="project-heading"><h3>AI Usage Bar</h3><time>2026</time></div><p data-i18n="usageBarProject">Claude와 Codex의 5시간 및 주간 사용량을 표시하고 Threshold Alert와 Usage Coach를 제공하는 macOS Menu Bar App을 개발했습니다.</p><p class="stack">Swift 6, SwiftPM, LaunchAgent, Swift Testing</p><a class="project-link" href="https://github.com/sihunwang-skala/ai-usage-bar" target="_blank" rel="noreferrer" data-i18n="repository">Repository</a></article>
         </div>
       </section>
@@ -147,22 +158,23 @@
       <section class="resume-section page-shell" id="skills">
         <div class="section-title"><span>04</span><div><h2 data-i18n="skillsTitle">기술</h2></div></div>
         <dl class="skills-list">
-          <div><dt>Agent and RAG</dt><dd>LangGraph, LangChain, Agentic RAG, Tool Routing, MCP, Hybrid Search</dd></div>
-          <div><dt>Evaluation</dt><dd>Benchmark Design, LLM-as-a-Judge, MQM, xCOMET, HITL</dd></div>
-          <div><dt>Programming</dt><dd>Python, Java, R, SQL</dd></div>
-          <div><dt>Backend and Data</dt><dd>FastAPI, Spring, API Integration, Selenium, Beautiful Soup, OpenPyXL</dd></div>
+          <div><dt>Agent Systems</dt><dd>LangGraph Supervisor, Multi-Agent Subgraphs, Conditional Routing, Concurrent Execution, Tool Calling, MCP, Interrupt and Checkpointer</dd></div>
+          <div><dt>RAG and Grounding</dt><dd>Agentic RAG, Query Expansion, Hybrid Search, Semantic Search, BM25, Chunking, Evidence Selection, Citation Mapping, Grounded Generation</dd></div>
+          <div><dt>Evaluation and Safety</dt><dd>Benchmark Design, LLM-as-a-Judge, MQM, xCOMET, HITL, Deterministic Safety Rules, Rollback, Audit Logs</dd></div>
+          <div><dt>Programming</dt><dd>Python, Java, R</dd></div>
+          <div><dt>Backend and Automation</dt><dd>FastAPI, SSE, Spring, Gradio, API Integration, Selenium, Beautiful Soup, OpenPyXL</dd></div>
           <div><dt>Machine Learning</dt><dd>PyTorch, TensorFlow, CNN, RNN, Federated Learning, Statistical Analysis</dd></div>
         </dl>
       </section>
 
       <section class="resume-section page-shell recognition-section">
         <div class="section-title"><span>05</span><div><h2 data-i18n="recognitionTitle">기여와 수상</h2></div></div>
-        <div class="recognition-list">
-          <article><h3><a href="https://book.stat420.org/" target="_blank" rel="noreferrer">Applied Statistics with R</a></h3><p data-i18n="openSource">UIUC STAT 420 응용통계학 교과서 기여자</p></article>
-          <article><h3>Upstage AI Stages ML Competition</h3><p data-i18n="upstageAward">아파트 실거래가 예측 Machine Learning 경진대회 Team 2위, 2026년 1월</p></article>
-          <article><h3>UIUC Data Dive Team Competition</h3><p data-i18n="dataDiveAward">주가 데이터를 활용한 Machine Learning 분석 경진대회 Team 4위, 2023년 12월</p></article>
-          <article><h3>Georgia Southern University Invitational Mathematics Tournament</h3><p data-i18n="mathAward">개인 2위, 단체 1위, 2017년과 2018년</p></article>
-        </div>
+        <ul class="recognition-list">
+          <li><h3><a href="https://book.stat420.org/" target="_blank" rel="noreferrer">Applied Statistics with R</a></h3><p data-i18n="openSource">UIUC STAT 420 응용통계학 교과서 기여자</p></li>
+          <li><h3><a href="https://github.com/sihunwang/upstage-ml-team2" target="_blank" rel="noreferrer">Upstage AI Stages ML Competition</a></h3><p data-i18n="upstageAward">아파트 실거래가 예측 Machine Learning 경진대회 Team 2위, 2026년 1월</p><div class="recognition-links"><a href="https://github.com/sihunwang/upstage-ml-team2" target="_blank" rel="noreferrer" data-i18n="repository">Repository</a></div></li>
+          <li><h3><a href="https://uiucdsc.org/" target="_blank" rel="noreferrer">UIUC Data Dive Team Competition</a></h3><p data-i18n="dataDiveAward">주가 데이터를 활용한 Machine Learning 분석 경진대회 Team 4위, 2023년 12월</p><div class="recognition-links"><a href="https://uiucdsc.org/" target="_blank" rel="noreferrer">UIUC Data Science Club</a></div></li>
+          <li><h3><a href="https://sites.google.com/a/georgiasouthern.edu/math-tournament/" target="_blank" rel="noreferrer">Georgia Southern University Invitational Mathematics Tournament</a></h3><p data-i18n="mathAward">개인 2위, 단체 1위, 2017년과 2018년</p><div class="recognition-links"><a href="https://sites.google.com/a/georgiasouthern.edu/math-tournament/" target="_blank" rel="noreferrer" data-i18n="tournamentSite">대회 공식 페이지</a><a href="https://www.gctm.org/competitions/state/winners#:~:text=Bulloch%20Academy" target="_blank" rel="noreferrer" data-i18n="gctmResult">2017 GCTM 수상 기록</a></div></li>
+        </ul>
       </section>
     </main>
 
