@@ -48,9 +48,10 @@ html[lang="ko"] p,html[lang="ko"] li,html[lang="ko"] h1,html[lang="ko"] h2,html[
 .section-title p { margin:.2rem 0 0; color:var(--muted); font-size:.67rem; }
 
 .resume-list { border-top:1px solid var(--line); }
-.resume-entry { display:grid; grid-template-columns:48px 1fr; gap:1.2rem; padding:2rem 0; border-bottom:1px solid var(--line); }
+.resume-entry { display:grid; grid-template-columns:minmax(48px,120px) 1fr; gap:1.2rem; padding:2rem 0; border-bottom:1px solid var(--line); }
 .resume-entry:last-child { border-bottom:0; }
 .organization-logo { width:48px; height:48px; padding:7px; border:1px solid var(--line); border-radius:10px; object-fit:contain; background:var(--white); }
+.organization-logo.lab-wordmark { width:112px; height:48px; padding:4px; object-fit:contain; }
 .entry-heading { display:grid; grid-template-columns:1fr auto; gap:1rem; }
 .entry-heading h3 { margin:0; font-size:1.05rem; }
 .entry-heading h3 a { text-decoration:none; }
@@ -124,8 +125,9 @@ footer { display:flex; justify-content:space-between; gap:1rem; padding:1.4rem c
   .hero-facts div { padding:.6rem 0; border-right:0; border-bottom:1px solid var(--line); }
   .section-title { grid-template-columns:2rem 1fr; }
   .resume-section { padding-block:3.5rem; }
-  .resume-entry { grid-template-columns:40px 1fr; gap:.8rem; }
+  .resume-entry { grid-template-columns:minmax(40px,100px) 1fr; gap:.8rem; }
   .organization-logo { width:40px; height:40px; }
+  .organization-logo.lab-wordmark { width:96px; height:40px; }
   .entry-heading { grid-template-columns:1fr; }
   .entry-meta { text-align:left; }
   .education-list article { grid-template-columns:40px 1fr; gap:.8rem; }
