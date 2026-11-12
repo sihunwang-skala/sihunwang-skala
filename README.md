@@ -13,8 +13,8 @@
   - **[Georgia Institute of Technology (조지아 공과대학교)](https://www.gatech.edu/)**
 
 ### Fun Fact
-- [*Applied Statistics with R*](https://book.stat420.org/) 
-  - 일리노이대학교 응용통계학 교과서 기여자
+- 일리노이대학교 응용통계학 교과서 기여자
+  - [*Applied Statistics with R*](https://book.stat420.org/) 
 
 - **[수학경시대회 미국 조지아주 동남부 지역 대표 2회](https://www.gctm.org/competitions/state/winners#:~:text=Bulloch%20Academy)**  
   - [Georgia Southern Invitational Mathematics Tournament](https://sites.google.com/a/georgiasouthern.edu/math-tournament/)
