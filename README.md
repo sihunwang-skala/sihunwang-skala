@@ -16,8 +16,8 @@
 - [*Applied Statistics with R*](https://book.stat420.org/) 
   - 일리노이대학교 응용통계학 교과서 기여자
 
-- **[수학경시대회 미국 조지아주 동남부 지역 대표 2회](https://www.gctm.org/competitions/state/winners#:~:text=Bulloch%20Academy)  
-  - [Georgia Southern Invitational Mathematics Tournament](https://sites.google.com/a/georgiasouthern.edu/math-tournament/)**
+- **[수학경시대회 미국 조지아주 동남부 지역 대표 2회](https://www.gctm.org/competitions/state/winners#:~:text=Bulloch%20Academy)**  
+  - [Georgia Southern Invitational Mathematics Tournament](https://sites.google.com/a/georgiasouthern.edu/math-tournament/)
   - 단체 1위 (2017, 2018)
   - 개인 2위 (2017, 2018)
 
