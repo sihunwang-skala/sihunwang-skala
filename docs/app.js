@@ -15,11 +15,12 @@ const copy = {
     aibm1:"ML과 DL 모델의 구조와 Parameter를 비교하고 Federated Learning을 검증해 CNN 정확도 98%를 달성했습니다.",
     officialSite:"공식 웹사이트", labPeople:"연구실 구성원", labSite:"연구실 웹사이트", khu:"경희대학교 빅데이터응용학과",
     educationTitle:"학력", gtDegree:"M.S. Computer Science, Artificial Intelligence, 현재 휴학", uiucDegree:"B.S. Statistics, Minor in Computer Science",
-    projectsTitle:"대표 프로젝트",
-    healthProject:"LangGraph 기반 Research Agent와 Reviewer Agent, Tool Routing, Hybrid Search RAG를 구현하고 600문항 Benchmark에서 98.67% 정확도와 API 오류 0건을 확인했습니다.",
+    projectsTitle:"대표 프로젝트", repository:"Repository",
+    healthProject:"LangGraph 기반 Research Agent와 Reviewer Agent, Tool Routing, Hybrid Search RAG를 구현하고 Benchmark로 품질과 안전성을 검증했습니다.",
     translationProject:"다국어 번역 Workflow를 위한 Fluency Agent, 언어별 Prompt, LLM 평가 기준, 전문가 HITL 검증 절차를 설계했습니다.",
     pipelineProject:"API, Selenium, Beautiful Soup, OpenPyXL을 활용해 조사 데이터 수집과 검증, 문서 처리를 자동화했습니다.",
-    skillsTitle:"기술", recognitionTitle:"기여와 수상", openSource:"UIUC STAT 420 응용통계학 교과서 기여자", mathAward:"개인 2위, 단체 1위, 2017년과 2018년"
+    usageBarProject:"Claude와 Codex의 5시간 및 주간 사용량을 표시하고 Threshold Alert와 Usage Coach를 제공하는 macOS Menu Bar App을 개발했습니다.",
+    skillsTitle:"기술", recognitionTitle:"기여와 수상", openSource:"UIUC STAT 420 응용통계학 교과서 기여자", upstageAward:"아파트 실거래가 예측 Machine Learning 경진대회 Team 2위, 2026년 1월", dataDiveAward:"주가 데이터를 활용한 Machine Learning 분석 경진대회 Team 4위, 2023년 12월", mathAward:"개인 2위, 단체 1위, 2017년과 2018년"
   },
   en: {
     skip:"Skip to content", navExperience:"Experience", navEducation:"Education", navProjects:"Projects", navSkills:"Skills",
@@ -37,11 +38,12 @@ const copy = {
     aibm1:"Compared ML and DL architectures and validated Federated Learning, achieving 98% CNN accuracy.",
     officialSite:"Official website", labPeople:"Lab people", labSite:"Lab website", khu:"Kyung Hee University, Applied Big Data",
     educationTitle:"Education", gtDegree:"M.S. Computer Science, Artificial Intelligence, currently on leave", uiucDegree:"B.S. Statistics, Minor in Computer Science",
-    projectsTitle:"Selected Projects",
-    healthProject:"Built LangGraph-based Research and Reviewer agents, Tool Routing, and Hybrid Search RAG, reaching 98.67% accuracy on a 600-question benchmark with zero API errors.",
+    projectsTitle:"Selected Projects", repository:"Repository",
+    healthProject:"Built LangGraph-based Research and Reviewer agents, Tool Routing, and Hybrid Search RAG, then evaluated quality and safety with benchmark experiments.",
     translationProject:"Designed a Fluency Agent, language-specific prompts, LLM evaluation criteria, and expert HITL validation for a multilingual translation workflow.",
     pipelineProject:"Automated research-data collection, validation, and document processing with APIs, Selenium, Beautiful Soup, and OpenPyXL.",
-    skillsTitle:"Skills", recognitionTitle:"Contributions and Awards", openSource:"Credited contributor to the UIUC STAT 420 textbook", mathAward:"Individual 2nd place and Team 1st place, 2017 and 2018"
+    usageBarProject:"Built a macOS menu bar app that tracks Claude and Codex five-hour and weekly usage, with threshold alerts and a usage coach.",
+    skillsTitle:"Skills", recognitionTitle:"Contributions and Awards", openSource:"Credited contributor to the UIUC STAT 420 textbook", upstageAward:"Team 2nd place in an apartment transaction price prediction ML competition, January 2026", dataDiveAward:"Team 4th place in a stock-data Machine Learning analysis competition, December 2023", mathAward:"Individual 2nd place and Team 1st place, 2017 and 2018"
   }
 };
 
