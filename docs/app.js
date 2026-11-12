@@ -20,7 +20,7 @@ const copy = {
     translationProject:"MQM 오류 분류, 카테고리별 전문 수정, 결정적 검증과 Rollback, OpenAI Escalation, HITL 승인을 포함한 번역 품질 Agent를 구현했습니다.",
     pipelineProject:"API, Selenium, Beautiful Soup, OpenPyXL을 활용해 조사 데이터 수집과 검증, 문서 처리를 자동화했습니다.",
     usageBarProject:"Claude와 Codex의 5시간 및 주간 사용량을 표시하고 Threshold Alert와 Usage Coach를 제공하는 macOS Menu Bar App을 개발했습니다.",
-    skillsTitle:"기술", recognitionTitle:"기여와 수상", openSource:"UIUC STAT 420 응용통계학 교과서 기여자", upstageAward:"아파트 실거래가 예측 Machine Learning 경진대회 Team 2위, 2026년 1월", dataDiveAward:"주가 데이터를 활용한 Machine Learning 분석 경진대회 Team 4위, 2023년 12월", mathAward:"미국 조지아주 동남부 지역 대표 2회, 개인 2위, 단체 1위, 2017년과 2018년", tournamentSite:"대회 공식 페이지", gctmResult:"2017 GCTM 수상 기록"
+    skillsTitle:"기술", recognitionTitle:"기여와 수상", openSource:"UIUC STAT 420 응용통계학 교과서 기여자", upstageAward:"아파트 실거래가 예측 Machine Learning 경진대회 Team 2위, 2026년 1월", dataDiveAward:"주가 데이터를 활용한 Machine Learning 분석 경진대회 Team 4위, 2023년 12월", mathAward:"미국 수학경시대회 조지아주 동남부 지역 대표(2017, 2018), 개인 2위(2017, 2018), 단체 1위(2017, 2018)", tournamentSite:"대회 공식 페이지", gctmResult:"2017 GCTM 수상 기록"
   },
   en: {
     skip:"Skip to content", navExperience:"Experience", navEducation:"Education", navProjects:"Projects", navSkills:"Skills",
@@ -43,7 +43,7 @@ const copy = {
     translationProject:"Built a translation-quality agent with MQM error classification, category-specific repair, deterministic validation and rollback, OpenAI escalation, and HITL approval.",
     pipelineProject:"Automated research-data collection, validation, and document processing with APIs, Selenium, Beautiful Soup, and OpenPyXL.",
     usageBarProject:"Built a macOS menu bar app that tracks Claude and Codex five-hour and weekly usage, with threshold alerts and a usage coach.",
-    skillsTitle:"Skills", recognitionTitle:"Contributions and Awards", openSource:"Credited contributor to the UIUC STAT 420 textbook", upstageAward:"Team 2nd place in an apartment transaction price prediction ML competition, January 2026", dataDiveAward:"Team 4th place in a stock-data Machine Learning analysis competition, December 2023", mathAward:"Two-time Southeast Georgia representative, Individual 2nd place and Team 1st place, 2017 and 2018", tournamentSite:"Official tournament page", gctmResult:"2017 GCTM result"
+    skillsTitle:"Skills", recognitionTitle:"Contributions and Awards", openSource:"Credited contributor to the UIUC STAT 420 textbook", upstageAward:"Team 2nd place in an apartment transaction price prediction ML competition, January 2026", dataDiveAward:"Team 4th place in a stock-data Machine Learning analysis competition, December 2023", mathAward:"Southeast Georgia representative in the U.S. mathematics competition (2017, 2018), Individual 2nd place (2017, 2018), Team 1st place (2017, 2018)", tournamentSite:"Official tournament page", gctmResult:"2017 GCTM result"
   }
 };
 
