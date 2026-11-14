@@ -1,6 +1,6 @@
 
 <p align="right">
-  <a href="README.md">한국어</a> | <strong>English</strong>
+  <strong>English</strong> | <a href="README.md">한국어</a>
 </p>
 
 ---
