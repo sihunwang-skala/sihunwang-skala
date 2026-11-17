@@ -17,6 +17,11 @@
 - [*Applied Statistics with R*](https://book.stat420.org/)
   - Contributor to a UIUC Applied Statistics Course Textbook
 
+### Team Projects
+- **[ai-event-bridge](https://github.com/SKALA4th-team3/ai-event-bridge)**: SKALA 4th Team 3
+- **[skala-cbam-ct](https://github.com/SKALA4th-team3/skala-cbam-ct)**: SKALA 4th Team 3
+- **[skala-python-team](https://github.com/woonzzzang/skala-python-team)**: Python team project
+
 ### Awards
 - **[Georgia Southern Invitational Mathematics Tournament](https://sites.google.com/a/georgiasouthern.edu/math-tournament/)**
   - **[Two-Time Southeast Georgia Regional Representative in Mathematics](https://www.gctm.org/competitions/state/winners#:~:text=Bulloch%20Academy)**
