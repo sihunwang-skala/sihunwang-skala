@@ -5,8 +5,7 @@
 
 ---
 
-**Previous GitHub Account**  
-[@sihunwang](https://github.com/sihunwang)
+**Previous GitHub Account**  [@sihunwang](https://github.com/sihunwang)
 
 ### Education
 - ### **[Top-Ranked U.S. Universities for AI](https://www.usnews.com/best-graduate-schools/top-computer-science-schools/artificial-intelligence-rankings)**
