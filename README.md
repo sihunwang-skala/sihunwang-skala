@@ -26,5 +26,4 @@
 ### Awards
 - **[Georgia Southern Invitational Mathematics Tournament](https://sites.google.com/a/georgiasouthern.edu/math-tournament/)**
   - **[Two-Time Southeast Georgia Regional Representative in Mathematics](https://www.gctm.org/competitions/state/winners#:~:text=Bulloch%20Academy)**
-  - Team 1st Place (2017, 2018)
-  - Individual 2nd Place (2017, 2018)
+  - Team 1st Place (2017, 2018) & Individual 2nd Place (2017, 2018)
