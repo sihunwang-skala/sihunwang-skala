@@ -24,6 +24,12 @@
 - **[skala-python-team](https://github.com/woonzzzang/skala-python-team)**
 
 ### Awards
+- **[Upstage AI Stages ML Competition](https://github.com/sihunwang/upstage-ml-team2)** (2026)
+  - Team 2nd Place, apartment transaction price prediction machine learning competition
+- **[KBS Media Outstanding Trainee](https://www.kbsmedia.co.kr/business/digital.html)** (2025)
+  - Video object detection and description multimodal project
+- **[UIUC Data Dive Team Competition](https://uiucdsc.org/data-dive)** (2023)
+  - Team 4th Place, stock data machine learning analysis competition
 - **[Georgia Southern Invitational Mathematics Tournament](https://sites.google.com/a/georgiasouthern.edu/math-tournament/)**
   - **[Two-Time Southeast Georgia Regional Representative in Mathematics](https://www.gctm.org/competitions/state/winners#:~:text=Bulloch%20Academy)**
   - Team 1st Place (2017, 2018) & Individual 2nd Place (2017, 2018)
