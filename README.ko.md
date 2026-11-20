@@ -21,10 +21,11 @@
   - 단체 1위 (2017, 2018)
   - 개인 2위 (2017, 2018)
 
-### 수상
 - **[Upstage AI Stages ML Competition](https://github.com/sihunwang/upstage-ml-team2)** (2026)
   - 아파트 실거래가 예측 Machine Learning 경진대회 Team 2위
+  - 
 - **[KBS 미디어 우수교육생](https://www.kbsmedia.co.kr/business/digital.html)** (2025)
   - 영상 객체 탐지 및 설명 멀티모달 프로젝트
+  - 
 - **[UIUC Data Dive Team Competition](https://uiucdsc.org/data-dive)** (2023)
   - 주가 데이터를 활용한 Machine Learning 분석 경진대회 Team 4위
