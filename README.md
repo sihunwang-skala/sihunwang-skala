@@ -17,6 +17,8 @@
   - Contributor to a UIUC Applied Statistics Course Textbook
 
 ### Team Projects
+
+- **[Real-time Presentation Evaluation & Mock QnA](https://github.com/Skala4FinalG3-1)**: SKALA 4th Team G3 - 1
 - **[ai-event-bridge](https://github.com/SKALA4th-team3/ai-event-bridge)**: SKALA 4th Team 3
 - **[skala-cbam-ct](https://github.com/SKALA4th-team3/skala-cbam-ct)**: SKALA 4th Team 3
 - **[skala-python-team](https://github.com/woonzzzang/skala-python-team)**: Python team project
