@@ -32,4 +32,4 @@
   - Team 4th Place, stock data machine learning analysis competition
 - **[Georgia Southern Invitational Mathematics Tournament](https://sites.google.com/a/georgiasouthern.edu/math-tournament/)** (2018, 2017)
   - **[Two-Time Southeast Georgia Regional Representative in Mathematics](https://www.gctm.org/competitions/state/winners#:~:text=Bulloch%20Academy)**
-  - Team 1st Place (2017, 2018) & Individual 2nd Place
+  - Team 1st Place & Individual 2nd Place
