@@ -26,7 +26,7 @@
 ### Awards
 - **[Upstage AI Stages ML Competition](https://github.com/sihunwang/upstage-ml-team2)** (2026)
   - Team 2nd Place, apartment transaction price prediction machine learning competition
-- **[KBS Media Outstanding Trainee](https://www.kbsmedia.co.kr/business/digital.html)** (2025)
+- **[KBS Media AI Outstanding Trainee](https://www.kbsmedia.co.kr/business/digital.html)** (2025)
   - Video object detection and description multimodal project
 - **[UIUC Data Dive Team Competition](https://uiucdsc.org/data-dive)** (2023)
   - Team 4th Place, stock data machine learning analysis competition
