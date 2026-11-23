@@ -18,7 +18,7 @@
 
 ### Team Projects
 
-- **[AI Presentation Coach & Mock Q&A](https://github.com/Skala4FinalG3-1)**
+- **[AI Presentation Coach & Mock Q&A](https://github.com/Skala4FinalG3-1)** — In collaboration with SKT
 - **[POWER GAP AIOps](https://github.com/sihunwang-skala/power_gap)** — Power Demand Forecast Error Early Warning
 - **[EventBridge](https://github.com/SKALA4th-team3/ai-event-bridge)** — Public Event Procurement Matching
 - **[CBAM CT](https://github.com/SKALA4th-team3/skala-cbam-ct)** — Supplier Carbon Data Control Tower
