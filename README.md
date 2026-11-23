@@ -18,11 +18,11 @@
 
 ### Team Projects
 
-- **[AI Presentation Coach & Mock Q&A](https://github.com/Skala4FinalG3-1)**
-- **[POWER GAP AIOps — Power Demand Forecast Error Early Warning](https://github.com/sihunwang-skala/power_gap)**
-- **[EventBridge — Public Event Procurement Matching](https://github.com/SKALA4th-team3/ai-event-bridge)**
-- **[CBAM CT — Supplier Carbon Data Control Tower](https://github.com/SKALA4th-team3/skala-cbam-ct)**
-- **[Adult Census Income — End-to-End Statistical & ML Analysis](https://github.com/woonzzzang/skala-python-team)**
+- **AI Presentation Coach & Mock Q&A**
+- **POWER GAP AIOps — Power Demand Forecast Error Early Warning**
+- **EventBridge — Public Event Procurement Matching**
+- **CBAM CT — Supplier Carbon Data Control Tower**
+- **Adult Census Income — End-to-End Statistical & ML Analysis**
 
 ### Awards
 - **[Upstage AI Stages ML Competition](https://github.com/sihunwang/upstage-ml-team2)** (2026)
