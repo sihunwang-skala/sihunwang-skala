@@ -12,6 +12,14 @@
   - **[University of Illinois Urbana-Champaign (일리노이 대학교 어바나-샴페인)](https://illinois.edu/)**
   - **[Georgia Institute of Technology (조지아 공과대학교)](https://www.gatech.edu/)**
 
+### 팀 프로젝트
+
+- **[AI 발표 평가 및 모의 Q&A](https://github.com/Skala4FinalG3-1)**
+- **[POWER GAP AIOps — 제주 전력수요예측 오차 사전경보](https://github.com/sihunwang-skala/power_gap)**
+- **[이벤트브릿지(EventBridge) — 공공행사 발주기관과 참여업체 매칭 플랫폼](https://github.com/SKALA4th-team3/ai-event-bridge)**
+- **[CBAM CT — 협력업체 탄소데이터 관제탑](https://github.com/SKALA4th-team3/skala-cbam-ct)**
+- **[Adult Census Income — 통계 및 Machine Learning 종합 분석](https://github.com/woonzzzang/skala-python-team)**
+
 ### Fun Fact
 - 일리노이 대학교 [응용통계학](https://informatics.ischool.illinois.edu/courses/stat-420-methods-of-applied-statistics/) 교과서 기여자
   - [*Applied Statistics with R*](https://book.stat420.org/) 
