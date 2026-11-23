@@ -14,7 +14,7 @@
 
 ### 팀 프로젝트
 
-- **[AI 발표 평가 및 모의 Q&A](https://github.com/Skala4FinalG3-1)**
+- **[AI 발표 평가 및 모의 Q&A](https://github.com/Skala4FinalG3-1)** — SKT와 협업
 - **[POWER GAP AIOps](https://github.com/sihunwang-skala/power_gap)** — 제주 전력수요예측 오차 사전경보
 - **[이벤트브릿지(EventBridge)](https://github.com/SKALA4th-team3/ai-event-bridge)** — 공공행사 발주기관과 참여업체 매칭 플랫폼
 - **[CBAM CT](https://github.com/SKALA4th-team3/skala-cbam-ct)** — 협력업체 탄소데이터 관제탑
