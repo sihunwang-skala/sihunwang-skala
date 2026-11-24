@@ -7,6 +7,7 @@
 ### [개인화 건강 코칭 Multi-Agent](https://sihunwang-skala.github.io/sihunwang-portfolio/health-agent/)
 - **핵심 역량:** LangGraph, Multi-Agent, Agentic RAG, Hybrid Retrieval, Evaluation, HITL
 - **역할 및 성과:** Supervisor Routing, 개인화 근거 검색, Safety Workflow 설계. 200문항 Benchmark **181/200(90.5%)** 통과, Single-Agent **165/200(82.5%)** 대비 향상. 별도 평가에서 건강 코칭 외 요청 **39/40(97.5%)** 처리
+- **평가 범위:** 위 수치는 전체 시스템 간 비교 결과입니다. 이 Benchmark만으로 개별 Agent, 검색 단계 또는 Safety Rule의 독립적인 효과를 분리해 판단할 수는 없습니다.
 
 [Technical Report (PDF)](https://sihunwang-skala.github.io/sihunwang-portfolio/health-agent/report.pdf)
 
