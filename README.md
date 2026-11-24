@@ -7,6 +7,7 @@
 ### [Personalized Health Coach Multi-Agent](https://sihunwang-skala.github.io/sihunwang-portfolio/health-agent/)
 - **Skills:** LangGraph, Multi-Agent, Agentic RAG, Hybrid Retrieval, Evaluation, HITL
 - **Role & Result:** Designed Supervisor routing, personalized retrieval, and safety workflows; **181/200 (90.5%)** benchmark pass rate vs. **165/200 (82.5%)** for Single-Agent, and **39/40 (97.5%)** non-coaching requests handled in a separate evaluation.
+- **Evaluation scope:** These are end-to-end system comparisons. The benchmark does not isolate the effect of an individual agent, retrieval step, or safety rule.
 
 [Technical Report (PDF)](https://sihunwang-skala.github.io/sihunwang-portfolio/health-agent/report.pdf)
 
